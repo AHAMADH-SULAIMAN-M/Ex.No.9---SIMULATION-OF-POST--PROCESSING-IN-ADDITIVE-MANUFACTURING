@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![image](https://github.com/user-attachments/assets/a61bb994-db66-40a2-8882-e5435db0eff7)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/a1239f88-c778-4f33-bb34-d2d7521edbd8)
+![image](https://github.com/user-attachments/assets/f7e65bb6-b40c-4fe8-95ce-97cd3aceeaf1)
+![image](https://github.com/user-attachments/assets/b76a5132-2475-4b9a-b897-1b44d2332152)
 
-### Name:
-### Register Number:
+
+
+### Name:AHAMADH SULAIMAN M
+### Register Number:212224230009
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
